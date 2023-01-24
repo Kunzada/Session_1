@@ -20,7 +20,7 @@
  </head>
  <body>
    
-    <form action="code2.php" method="POST"><!-- enctype="multipart/form-data"> -->
+    <form action="code2.php" method="POST">
 <label>Введите ваше имя:</label>
 <input type="text" name="name" > 
 <input type="submit" value="Дальше">
